@@ -1,0 +1,36 @@
+cyl              Cylindrical Equidistant
+ merc             Mercator
+ tmerc            Transverse Mercator
+ omerc            Oblique Mercator
+ mill             Miller Cylindrical
+ gall             Gall Stereographic Cylindrical
+ cea              Cylindrical Equal Area
+ lcc              Lambert Conformal
+ laea             Lambert Azimuthal Equal Area
+ nplaea           North-Polar Lambert Azimuthal
+ splaea           South-Polar Lambert Azimuthal
+ eqdc             Equidistant Conic
+ aeqd             Azimuthal Equidistant
+ npaeqd           North-Polar Azimuthal Equidistant
+ spaeqd           South-Polar Azimuthal Equidistant
+ aea              Albers Equal Area
+ stere            Stereographic
+ npstere          North-Polar Stereographic
+ spstere          South-Polar Stereographic
+ cass             Cassini-Soldner
+ poly             Polyconic
+ ortho            Orthographic
+ geos             Geostationary
+ nsper            Near-Sided Perspective
+ sinu             Sinusoidal
+ moll             Mollweide
+ hammer           Hammer
+ robin            Robinson
+ kav7             Kavrayskiy VII
+ eck4             Eckert IV
+ vandg            van der Grinten
+ mbtfpq           McBryde-Thomas Flat-Polar Quartic
+ gnom             Gnomonic
+ rotpole          Rotated Pole
+
+ValueError: boundary resolution must be one of 'c','l','i','h' or 'f'
