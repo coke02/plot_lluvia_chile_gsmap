@@ -30,6 +30,7 @@ crea_imagenes_chile.py
 Registro y Acceso
 
 Para acceder a los servicios y datos necesarios, es obligatorio registrarse en los sitios web mencionados anteriormente.
+
 Uso
 
 El proyecto se creo usando virtaulenv de python, por ahora no tiene comprobaciones rigurosas y todavia esta en desarrollo ya que el objetivo final seria integrarlo en servicios de mensajerias como "telegram"   
